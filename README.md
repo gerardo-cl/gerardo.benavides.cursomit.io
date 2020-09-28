@@ -1,2 +1,2 @@
 # gerardo.benavides.cursomit.io
-Crear Web Site para cursp de MIT
+Crear Web Site para curso de MIT
